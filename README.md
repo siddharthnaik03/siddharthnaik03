@@ -4,7 +4,7 @@ Expertise with 1.2 years experience in Amazon as Associate, Quality Services wer
 agreements (SLAs). Performed Regression Testing, Smoke Testing, Sanity testing, Accessibility
 testing using TestRail, Jira Tools to identify root cause and solve issues within multiple components of critical business systems. Collaborated with cross-functional teams to ensure quality and exceptional communication.
 
-Fascinated by the impact of data in real time business world and passionately looking to transition to the data driven analytics role. 
+I am Holding Master Degree in Computer Application.Fascinated by the impact of data in real time business world and passionately looking to transition to the data driven analytics role. 
 
 I'm looking forward to blend my newfound Data Analytics skills with strong foundation in creating and evaluating dashboards and developing KPI reports. Certified AWS cloud practitioner, Excel specialist proficient in SQL, Python ,Tableau and Power Bi. Additional growing fluency in AI and product life cycle analytics to extract meaning from and interpret various types of data by utilizing the up-to-date technologies and resources.
 
